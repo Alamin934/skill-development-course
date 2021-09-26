@@ -1,5 +1,5 @@
 import React from 'react';
-import Name from '../InstructorName/InstructorName';
+import InstructorName from '../InstructorName/InstructorName';
 
 const Cart = (props) => {
     const { cart } = props;
@@ -16,13 +16,13 @@ const Cart = (props) => {
                 <h5 className="fw-normal">Total Course: <span className="fw-bold">{cart.length}</span></h5>
                 <h5 className="fw-normal">Total Amount: <span className="fw-bold">${totalPrice}</span></h5>
                 {
-                    cart.map(cartDetails => <Name
-                        key={cartDetails.id}
-                        cartDetails={cartDetails}
-                    ></Name>)
+                    cart.map(courseDetails => <InstructorName
+                        key={courseDetails.id}
+                        courseDetails={courseDetails}
+                    ></InstructorName>)
                 }
             </div>
-        </div>
+        </div >
     );
 };
 

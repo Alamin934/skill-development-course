@@ -1,11 +1,11 @@
 import React from 'react';
 
 const InstructorName = (props) => {
-    const { instructor } = props.cartDetails;
+    const { instructor } = props.courseDetails;
     return (
         <div>
             {/* display instructor name */}
-            <li>{instructor}</li>
+            <h5>{instructor}</h5>
         </div>
     );
 };
