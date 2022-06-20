@@ -1,7 +1,7 @@
 import React from 'react';
 
 const InstructorName = (props) => {
-    const { instructor } = props.courseDetails;
+    const { instructor } = props.course;
     return (
         <div>
             {/* display instructor name */}

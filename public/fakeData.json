@@ -1,7 +1,7 @@
 [
     {
         "img": "https://i.ibb.co/1mhrjHp/jhankarmahbub.jpg",
-        "id": 1,
+        "id": "D4KDJF8",
         "course_name": "MERN Stack Development",
         "duration": "6 Month",
         "price": 8000,
@@ -10,7 +10,7 @@
     },
     {
         "img": "https://i.ibb.co/1z23YXT/harry.jpg",
-        "id": 2,
+        "id": "SDK48DK",
         "course_name": "Front End Development",
         "duration": "6 Month",
         "price": 7000,
@@ -19,7 +19,7 @@
     },
     {
         "img": "https://i.ibb.co/1bxjLTN/hasin.jpg",
-        "id": 3,
+        "id": "4KLSDJAF",
         "course_name": "Beginning JavaScript",
         "duration": "2.5 Month",
         "price": 2000,
@@ -28,7 +28,7 @@
     },
     {
         "img": "https://i.ibb.co/c3bhnVZ/jhankar.jpg",
-        "id": 4,
+        "id": "ADKSF8KDW",
         "course_name": "Machine Learning",
         "duration": "1 Year",
         "price": 18000,
@@ -37,7 +37,7 @@
     },
     {
         "img": "https://i.ibb.co/232NY1L/sumit.jpg",
-        "id": 5,
+        "id": "AQPC0983D",
         "course_name": "MEAN Stack Development",
         "duration": "8 Month",
         "price": 7500,
@@ -46,7 +46,7 @@
     },
     {
         "img": "https://i.ibb.co/qj3yPp1/moshiur.jpg",
-        "id": 6,
+        "id": "KDJ392KDH",
         "course_name": "WordPress Development",
         "duration": "6 Month",
         "price": 10000,
@@ -55,7 +55,7 @@
     },
     {
         "img": "https://i.ibb.co/6RYKBPr/anisul.jpg",
-        "id": 7,
+        "id": "MNBW94NHD",
         "course_name": "Full Stack Development",
         "duration": "8 Month",
         "price": 12000,
@@ -64,7 +64,7 @@
     },
     {
         "img": "https://i.ibb.co/0s7Vkn7/anisur.jpg",
-        "id": 8,
+        "id": "KLSA28ZNC",
         "course_name": "Graphics Design",
         "duration": "4 Month",
         "price": 6000,
@@ -73,7 +73,7 @@
     },
     {
         "img": "https://i.ibb.co/q1cNnZD/cyber71.jpg",
-        "id": 9,
+        "id": "KNCL94SK4",
         "course_name": "Ethical Hacking",
         "duration": "8 Month",
         "price": 14000,
@@ -82,7 +82,7 @@
     },
     {
         "img": "https://i.ibb.co/hgw7B60/jhankar1.jpg",
-        "id": 10,
+        "id": "HMX593JD",
         "course_name": "Full Stack Development",
         "duration": "8 Month",
         "price": 13000,
@@ -91,7 +91,7 @@
     },
     {
         "img": "https://i.ibb.co/HzmwK0t/shohagh.jpg",
-        "id": 11,
+        "id": "AZQ45LKJ7",
         "course_name": "T-Shirt Design",
         "duration": "3 Month",
         "price": 4000,
@@ -100,7 +100,7 @@
     },
     {
         "img": "https://i.ibb.co/jwjRHYc/sujon.png",
-        "id": 12,
+        "id": "KSLEXN45L2",
         "course_name": "WordPress Development",
         "duration": "4 Month",
         "price": 12000,

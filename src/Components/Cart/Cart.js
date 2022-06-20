@@ -5,8 +5,8 @@ const Cart = (props) => {
     const { cart } = props;
     //Cart Total Price
     let totalPrice = 0;
-    for (const price of cart) {
-        totalPrice = totalPrice + price.price;
+    for (const course of cart) {
+        totalPrice = totalPrice + course.price;
     };
 
     return (
@@ -16,9 +16,9 @@ const Cart = (props) => {
                 <h5 className="fw-normal">Total Course: <span className="fw-bold">{cart.length}</span></h5>
                 <h5 className="fw-normal">Total Amount: <span className="fw-bold">${totalPrice}</span></h5>
                 {
-                    cart.map(courseDetails => <InstructorName
-                        key={courseDetails.id}
-                        courseDetails={courseDetails}
+                    cart.map(course => <InstructorName
+                        key={course.id}
+                        course={course}
                     ></InstructorName>)
                 }
             </div>
